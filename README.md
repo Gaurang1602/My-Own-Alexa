@@ -1,17 +1,22 @@
 # My-Own-Alexa
-My-Own-Alexa is a virtual assistant like Apple Siri and Google Assistant
+## My-Own-Alexa is a virtual assistant like Apple Siri and Google Assistant
+### Alexa is a voice-controlled virtual assistant. 
+
 
 <img align="right" src="https://github.com/Gaurang1602/My-Own-Alexa/blob/main/icon_transitions_2.gif" width="250" height="250"/>
- - Alexa is a voice-controlled virtual assistant. <br>
- - She can play audio <br>
+It can do:-
+
+ - She can play audio or song <br>
+ - tell you date
+ - tell time
+ - tell funny Jokes
  - control your smart phone <br>
  - answer questions <br>
  - and engage your favorite <br>
  - services to keep you organized<br>
  - informed, safe, connected and entertained. <br>
  - she's also your personal shopper.<br>
- - compare algorithms side by side
- - know the time taken (time is just an approximate unit for comparision)
+
 
 <br> 
 
