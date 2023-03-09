@@ -1,11 +1,20 @@
 # My-Own-Alexa
 My-Own-Alexa is a virtual assistant like Apple Siri and Google Assistant
-<br> 
 
-<img src="https://github.com/Gaurang1602/My-Own-Alexa/blob/main/icon_transitions_2.gif" width="250" height="250"/>
+<img align="right" src="https://github.com/Gaurang1602/My-Own-Alexa/blob/main/icon_transitions_2.gif" width="250" height="250"/>
+*  Alexa is a voice-controlled virtual assistant. <br>
+*  She can play audio <br>
+*  control your smart phone <br>
+*  answer questions <br>
+*  and engage your favorite <br>
+*  services to keep you organized<br>
+*  informed, safe, connected and entertained. <br>
+*  she's also your personal shopper.<br>
+<br> 
 
 # Alexa
 ## Build an Artificial Assistant
+<img src="https://github.com/Gaurang1602/My-Own-Alexa/blob/main/alexa.gif" width="350" height="300"/>
 
 
 ## Installation
